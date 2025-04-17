@@ -1,1 +1,1 @@
-This is the new feature one.
+This is the new feature one. Test it.
