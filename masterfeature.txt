@@ -1,13 +1,1 @@
-<<<<<<< Updated upstream
-This is master feature.
-Add some more changes.
-This is master feature. Latest Fix
-=======
-<<<<<<< Updated upstream
-This is master feature. Latest
-=======
-This is master feature.
-Add some more changes.
-This is master feature. Latest Fix test
->>>>>>> Stashed changes
->>>>>>> Stashed changes
+Tested it.
